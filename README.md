@@ -6,5 +6,5 @@ A script for setting up a Python virtual environment for data analysis.
 - Assumes *python* points to *python3*
 
 ## Usage 
-- Run the script from location where want to create the virtual env folder
+- Run the script from location where you want to create the virtual env folder
 
