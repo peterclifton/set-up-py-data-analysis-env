@@ -2,9 +2,18 @@
 A script for setting up a Python virtual environment for data analysis.
 
 ## Prerequisites 
-- Assumes the OS is Arch Linux with **Python** and **sudo** present
-- Assumes *python* points to *python3*
+- Python must be installed
 
 ## Usage 
-- Run the script from location where you want to create the virtual env folder
+
+Run the script from location where you want to create the virtual env folder.
+
+## Systems
+
+### Arch Linux
+Use [set-up-py-data-analysis-env.sh](set-up-py-data-analysis-env.sh) 
+
+### Windows
+Use [set-up-py-data-analysis-env.ps1](set-up-py-data-analysis-env.sh) 
+
 
