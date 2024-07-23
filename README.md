@@ -14,6 +14,6 @@ Run the script from location where you want to create the virtual env folder.
 Use [set-up-py-data-analysis.sh](set-up-py-data-analysis.sh) 
 
 ### Windows
-Use [set-up-py-data-analysis.ps1](set-up-py-data-analysis.sh) 
+Use [set-up-py-data-analysis.ps1](set-up-py-data-analysis.ps1) 
 
 
