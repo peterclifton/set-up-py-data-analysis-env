@@ -2,7 +2,6 @@
 
 # A script for setting up a Python virtual environment for data analysis
 # Assumes the OS is Arch Linux with Python and sudo present
-# Assumes python points to python3
 # Usage: run script from location where want to create the virtual env folder
 
 # Install the spatialindex requirement if it is not already installed
