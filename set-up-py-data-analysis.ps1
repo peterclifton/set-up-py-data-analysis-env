@@ -63,6 +63,7 @@ try {
         python -m pip install seaborn
         python -m pip install statsmodels
         python -m pip install xlrd
+	python -m pip install pyodbc
 
         #python -m pip install pyinstaller
 
